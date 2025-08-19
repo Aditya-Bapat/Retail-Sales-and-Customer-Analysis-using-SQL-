@@ -11,3 +11,8 @@ The database consists of three tables:
 customers → customer details (ID, name, city, join date)
 products → product details (ID, name, category, price)
 orders → order details (ID, customer, product, order date, quantity, payment method)
+
+Tools Used:
+PostgreSQL (Database)
+pgAdmin (Query execution & CSV export)
+Excel / Power BI (Optional: for visualizing query results)
