@@ -6,3 +6,8 @@ What are the monthly sales trends?
 Which products are most popular?
 How much revenue comes from different payment methods?
 What is the ratio of new vs repeat customers?
+
+The database consists of three tables:
+customers → customer details (ID, name, city, join date)
+products → product details (ID, name, category, price)
+orders → order details (ID, customer, product, order date, quantity, payment method)
