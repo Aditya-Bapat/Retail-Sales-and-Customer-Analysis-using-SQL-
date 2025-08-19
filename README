@@ -1,0 +1,8 @@
+An e-commerce company wants to analyze its customer purchases, product performance, and revenue trends to make better business decisions. The dataset includes customers, products, and orders.
+The goal of this project is to use PostgreSQL to answer key business questions such as:
+
+Who are the top customers by spending?
+What are the monthly sales trends?
+Which products are most popular?
+How much revenue comes from different payment methods?
+What is the ratio of new vs repeat customers?
